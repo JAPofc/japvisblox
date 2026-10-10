@@ -12,4 +12,4 @@ JapVisBlox — Visual Item Like Korblox &amp; Headless Horse-man etc Script
 This is just a visual, don't expect more
 
 # Request Somethin / PROBLEM
-if you want request somethin/problem/bugs, just open the issue.
+if you want request somethin, find problem/bugs. just open the issue!
