@@ -10,3 +10,6 @@ JapVisBlox — Visual Item Like Korblox &amp; Headless Horse-man etc Script
 
 # please remember!
 This is just a visual, don't expect more
+
+# Request Somethin
+if you want request maybe face or somethin, just open the issue
